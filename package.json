@@ -1,0 +1,25 @@
+{
+  "name": "dmv-written-test",
+  "version": "1.0.0",
+  "description": "Generate dmv written tests in English and Vietnamese",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kionari/dmv-written-test.git"
+  },
+  "author": "Khoa Vo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kionari/dmv-written-test/issues"
+  },
+  "homepage": "https://github.com/kionari/dmv-written-test#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.6"
+  }
+}
